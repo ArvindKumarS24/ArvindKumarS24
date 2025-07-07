@@ -68,8 +68,8 @@ More in pinned repositories ↓
 
 I'm looking for internship opportunities in full-stack development, backend, or software development roles. Feel free to reach out if you’d like to collaborate or have any project ideas!
 
-**Email:** [arvindkumar@gmail.com] *(replace with your actual email)*  
-**LinkedIn:** [linkedin.com/in/arvind-kumar-s](https://www.linkedin.com) *(customize this)*
+**Email:** [arvindkumarin6362@gmail.com]
+**LinkedIn:** [linkedin.com/in/arvind-kumar-s](https://www.linkedin.com) 
 
 ---
 
