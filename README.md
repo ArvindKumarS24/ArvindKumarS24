@@ -1,7 +1,9 @@
 # 👨‍💻 Arvind Kumar S | Aspiring Full-Stack Developer
 
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F4B8&center=true&vCenter=true&multiline=true&width=700&lines=Hi+there!+I'm+Arvind+Kumar+S;Final+Year+BCA+Student;Full+Stack+Web+Developer;React+%7C+Java+%7C+PHP+%7C+MySQL+%7C+MongoDB;I+build+secure+%26+responsive+web+apps+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F4B8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Arvind+Kumar+S;Final+Year+BCA+Student;Full-Stack+Developer;React+%7C+PHP+%7C+Java;MongoDB+%7C+MySQL;Secure+%26+Responsive+Web+Apps+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 
