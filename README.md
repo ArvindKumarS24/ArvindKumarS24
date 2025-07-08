@@ -1,89 +1,91 @@
-# 🔧 Arvind Kumar S | Aspiring Full-Stack Developer
-
-### 🔑 BCA Final Year | MERN Stack & Java Enthusiast | Building Secure Web Apps
-
----
-
-## 🤖 About Me
-
-Hi! I'm **Arvind Kumar S**, an enthusiastic and curious developer pursuing my **Bachelor of Computer Applications** at Kristu Jayanti College, Bangalore. I'm passionate about building full-stack applications, automating systems, and solving real-world problems using technology.
-
-I’ve recently completed several academic and personal projects using **React.js**, **Java Swing**, **PHP**, **MySQL**, and more. I'm always eager to learn new tools, contribute to open-source, and collaborate on exciting projects.
-
----
-
-## 📚 Education
-
-- ✍️ **BCA (Bachelor of Computer Applications)**  
-  Kristu Jayanti College (Autonomous), Bengaluru  
-  _2022 - 2025_
-
----
-
-## 🚀 Tech Stack
-
-<h2 align="center">🚀 My Tech Stack</h2>
+# 👨‍💻 Arvind Kumar S | Aspiring Full-Stack Developer
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,php,javascript,html,css,react,nodejs,mysql,mongodb,git,github,netlify,vscode,figma,linux" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F4B8&center=true&vCenter=true&multiline=true&width=800&lines=Hi+there!+I'm+Arvind+Kumar+S;BCA+Final+Year+Student+%7C+Full+Stack+Developer;React+%7C+Java+%7C+PHP+%7C+MySQL+%7C+MongoDB;I+love+building+secure+and+responsive+apps+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🧰 Tools & Platforms</h3>
+---
 
-<p align="center">
+## 🌟 About Me
+
+🎓 I’m a final-year **BCA** student at **Kristu Jayanti College**, Bengaluru. I’m passionate about designing, developing, and deploying dynamic web applications. I specialize in **ReactJS**, **Java**, **PHP**, and **MySQL**, with real-world projects including a secure **Online Voting Management System** and a feature-rich **Movie Search App**.
+
+💡 I enjoy transforming ideas into applications and continuously learning new technologies in the ever-changing tech space.
+
+---
+
+## 🛠️ Languages & Tools
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,php,javascript" />
+</p>
+
+### 🌐 Frontend & Styling
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
+</p>
+
+### 🧰 Dev Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<h3 align="center">✨ Always Learning & Improving</h3>
+---
+
+## 📌 Featured Projects
+
+### 🗳️ [Voting Management System](https://github.com/ArvindKumarS24/Voting-Management-System)
+- Secure online voting platform with admin panel, encrypted vote casting, and real-time result tabulation.
+- **Tech:** PHP, MySQL, HTML, CSS, XAMPP
+
+### 🎬 [Movie Search App](https://dazzling-sable-56a139.netlify.app)
+- React app using OMDb API to search for movies, view details, and filter results.
+- **Tech:** ReactJS, Axios, CSS, Netlify
+
+### 🔐 [Java Swing Login System](https://github.com/ArvindKumarS24/Task4-Java-MySQL-NetBeans)
+- GUI-based secure login/logout system with MySQL integration.
+- **Tech:** Java, MySQL, NetBeans
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=450&lines=ReactJS+Frontend+Developer;PHP+%26+Java+Backend;MySQL+%26+MongoDB+Database;Secure+Login+Systems;Project+Builder+%26+Team+Player" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArvindKumarS24&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArvindKumarS24&theme=radical" alt="Streak Stats" />
 </p>
 
-
-**Tools & Platforms:**
-- Git & GitHub 
-- Netlify 
-- XAMPP
-- Linux Shell (Basics)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvindKumarS24&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 💼 Projects
+## 💼 Resume & Portfolio
 
-### 🔹 [Voting Management System](https://github.com/ArvindKumarS24/Voting-Management-System)
-A secure online voting system with admin panel, candidate registration, and real-time vote results. 
-**Tech:** PHP, MySQL, HTML, CSS, XAMPP
-
-### 🔹 [Movie Search App](https://dazzling-sable-56a139.netlify.app)
-A React-based movie app using OMDb API to search and display movies with filter & details page. 
-**Tech:** ReactJS, CSS, Axios, Netlify
-
-### 🔹 [Java Swing Login System](https://github.com/ArvindKumarS24/Task4-Java-MySQL-NetBeans)
-Java GUI application with login/logout and MySQL database connectivity.
-**Tech:** Java Swing, MySQL, NetBeans
-
-More in pinned repositories ↓
+- 📄 [Resume (Coming Soon)]()
+- 🌐 [Live Project (Netlify)](https://dazzling-sable-56a139.netlify.app)
+- 💻 [GitHub Repositories](https://github.com/ArvindKumarS24)
 
 ---
 
-## 🌐 Portfolio & Links
+## 📬 Connect With Me
 
-- 🔗 [Live Movie App (Netlify)](https://dazzling-sable-56a139.netlify.app)
-- 🎓 [Infosys Springboard Certificates](https://github.com/ArvindKumarS24?tab=repositories)
-- 📄 [Download Resume (Coming Soon)]()
-
----
-
-## 📢 Let's Connect!
-
-I'm looking for internship opportunities in full-stack development, backend, or software development roles. Feel free to reach out if you’d like to collaborate or have any project ideas!
-
-**Email:** [arvindkumarin6362@gmail.com]
-**LinkedIn:** [linkedin.com/in/arvind-kumar-s](https://www.linkedin.com) 
+<p align="center">
+  <a href="mailto:arvindkumar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/arvind-kumar-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ArvindKumarS24"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> 🧠 "Code is not just code — it's the logic behind every experience."
