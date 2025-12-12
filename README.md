@@ -46,117 +46,98 @@
 
 📌 Featured Projects
 ---
+🚀 Projects
+🎮 Tic-Tac-Toe
 
-# 🚀 Projects — Arvind Kumar S
+Tech: HTML • CSS • JavaScript
+🔗 Live Demo
 
-<p align="center">
-  <img src="assets/demo.gif" alt="Demo GIF (placeholder)" width="880" />
-</p>
+🛠 ProServe — Professional Service Booking
 
-<div align="center">
-  <!-- Tech row -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,java,nodejs,mysql,mongodb,tailwind" alt="tech icons" />
-</div>
+Tech: HTML • TailwindCSS • JavaScript
+🔗 Live Demo
 
----
+🤖 AI Learning Planner
 
-## 🔥 Featured Projects
+Tech: HTML • CSS • JavaScript • AI API
+🔗 Live Demo
 
-<!-- Project Card Row 1 -->
-<div style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center; margin-top: 18px;">
+✔️ Advanced To-Do List
 
-<!-- Tic-Tac-Toe -->
-<div style="width:320px;border-radius:12px;padding:14px;box-shadow:0 10px 30px rgba(2,6,23,0.12);background:#fff;">
-  <img src="assets/tictactoe.png" alt="Tic-Tac-Toe" style="width:100%;border-radius:8px;object-fit:cover;height:160px;">
-  <h3 style="margin:10px 0 6px;">🎮 Tic-Tac-Toe</h3>
-  <p style="margin:0 0 10px;color:#555;">Classic interactive Tic-Tac-Toe — responsive UI & smooth animations.</p>
-  <p>
-    <a href="https://tic-tac-toe-game-ak.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-Visit-23bf6e?style=for-the-badge" alt="demo" /></a>
-    <img src="https://img.shields.io/badge/Tech-HTML%20|%20CSS%20|%20JS-blue?style=flat-square" alt="tech" />
-  </p>
-</div>
+Tech: HTML • CSS • JavaScript
+🔗 Live Demo
 
-<!-- ProServe -->
-<div style="width:320px;border-radius:12px;padding:14px;box-shadow:0 10px 30px rgba(2,6,23,0.12);background:#fff;">
-  <img src="assets/proserve.png" alt="ProServe" style="width:100%;border-radius:8px;object-fit:cover;height:160px;">
-  <h3 style="margin:10px 0 6px;">🛠 ProServe — Service Manager</h3>
-  <p style="margin:0 0 10px;color:#555;">Single-page booking app with multi-step modal & polished UI.</p>
-  <p>
-    <a href="https://pro-serve.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-Open-2F80ED?style=for-the-badge" alt="demo" /></a>
-    <img src="https://img.shields.io/badge/Tech-HTML%20|%20Tailwind%20|%20JS-blue?style=flat-square" alt="tech" />
-  </p>
-</div>
+🏹 Archery Challenge — Stickman Archer Game
 
-<!-- AI Learning Planner -->
-<div style="width:320px;border-radius:12px;padding:14px;box-shadow:0 10px 30px rgba(2,6,23,0.12);background:#fff;">
-  <img src="assets/ai-planner.png" alt="AI Planner" style="width:100%;border-radius:8px;object-fit:cover;height:160px;">
-  <h3 style="margin:10px 0 6px;">🤖 AI Learning Planner</h3>
-  <p style="margin:0 0 10px;color:#555;">AI-powered 7-week roadmaps, daily tasks, and streak tracking.</p>
-  <p>
-    <a href="https://ai-larning-planner-roadmap-guider.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-Open-6A5ACD?style=for-the-badge" alt="demo" /></a>
-    <img src="https://img.shields.io/badge/Tech-HTML%20|%20CSS%20|%20JS-blue?style=flat-square" alt="tech" />
-  </p>
-</div>
+Tech: Java Swing
+🔗 Live Demo
 
-</div>
+🎬 Movie Search App
 
-<!-- Row 2 -->
-<div style="display:flex;flex-wrap:wrap;gap:18px;justify-content:center;margin-top:18px;">
+Tech: ReactJS • OMDb API
+🔗 Live Demo
 
-<!-- Advanced To-Do -->
-<div style="width:320px;border-radius:12px;padding:14px;box-shadow:0 10px 30px rgba(2,6,23,0.12);background:#fff;">
-  <img src="assets/todo.png" alt="Advanced ToDo" style="width:100%;border-radius:8px;object-fit:cover;height:160px;">
-  <h3 style="margin:10px 0 6px;">✔️ Advanced To-Do App</h3>
-  <p style="margin:0 0 10px;color:#555;">Animated task manager with filters & localStorage persistence.</p>
-  <p>
-    <a href="https://advanced-todo-list-pro.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-Open-00C853?style=for-the-badge" alt="demo" /></a>
-    <img src="https://img.shields.io/badge/Tech-HTML%20|%20CSS%20|%20JS-blue?style=flat-square" alt="tech" />
-  </p>
-</div>
+🗂 Additional Projects (GitHub Repositories)
+🗳 Voting Management System
 
-<!-- Archery Game -->
-<div style="width:320px;border-radius:12px;padding:14px;box-shadow:0 10px 30px rgba(2,6,23,0.12);background:#fff;">
-  <img src="assets/archery.png" alt="Archery Game" style="width:100%;border-radius:8px;object-fit:cover;height:160px;">
-  <h3 style="margin:10px 0 6px;">🏹 Archery Challenge</h3>
-  <p style="margin:0 0 10px;color:#555;">Fun stickman archery game — aim, shoot, score.</p>
-  <p>
-    <a href="https://archery-challengegame.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-Open-FB8C00?style=for-the-badge" alt="demo" /></a>
-    <img src="https://img.shields.io/badge/Tech-HTML%20|%20CSS%20|%20JS-blue?style=flat-square" alt="tech" />
-  </p>
-</div>
+Tech: PHP • MySQL
+📁 Repo
 
-<!-- Movie App -->
-<div style="width:320px;border-radius:12px;padding:14px;box-shadow:0 10px 30px rgba(2,6,23,0.12);background:#fff;">
-  <img src="assets/movie.png" alt="Movie App" style="width:100%;border-radius:8px;object-fit:cover;height:160px;">
-  <h3 style="margin:10px 0 6px;">🎬 Movie Search App</h3>
-  <p style="margin:0 0 10px;color:#555;">React app with OMDb API — search, filter, and details.</p>
-  <p>
-    <a href="https://arvind-movie-database-intership-task2.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-Open-DB2777?style=for-the-badge" alt="demo" /></a>
-    <img src="https://img.shields.io/badge/Tech-ReactJS-61DAFB?style=flat-square" alt="tech" />
-  </p>
-</div>
+🔐 Java Swing Login System
 
-</div>
+Tech: Java • MySQL
+📁 Repo
 
----
+🧾 Billing System
 
-## 📚 All Other Projects & Repos
+Tech: Java Swing
+📁 Repo
 
-- 🗳️ **Voting Management System (Repo)** — https://github.com/ArvindKumarS24/Voting-Management-System  
-- 🔐 **Java Swing Login System (Repo)** — https://github.com/ArvindKumarS24/Task4-Java-MySQL-NetBeans  
-- 🧾 **Billing System (Task 7)** — https://github.com/ArvindKumarS24/Task-7-Billing-System-  
-- 📦 **Post CRUD API** — https://github.com/ArvindKumarS24/Task-7post-crud-api  
-- 🔐 **PHP Login System** — https://github.com/ArvindKumarS24/PHP-Login-System-Internship-task-2  
-- 📝 **Dynamic JS Login Form** — https://github.com/ArvindKumarS24/-Dynamic-Login-Form-Using-JavaScript  
-- 🧘 **ZenHealth** — https://github.com/ArvindKumarS24/ZenHealth  
-- 🛒 **MERN E-commerce** — https://github.com/ArvindKumarS24/Task-6-E-commerce-Store-MERN-Stack-  
-- 📚 **Inventory (Task 5)** — https://github.com/ArvindKumarS24/Task-5  
-- 🔐 **MERN Login Page** — https://github.com/ArvindKumarS24/Task-4Login-Page-MERN-Stack-  
-- 📂 **CRUD with MERN (Task 3)** — https://github.com/ArvindKumarS24/MERN-stack-task-3  
-- 🖥️ **Apache NetBeans (Task 3)** — https://github.com/ArvindKumarS24/Apache-NetBeans-task-3  
-- 🌐 **School Management (Fork)** — https://github.com/ArvindKumarS24/school-management-system  
-- 📂 **Skills Intro (Private Repo)** — https://github.com/ArvindKumarS24/skills-introduction-to-github  
-- 🔗 **All Repositories** — https://github.com/ArvindKumarS24?tab=repositories
+📦 Post CRUD API
+
+Tech: Node.js • Express • MongoDB
+📁 Repo
+
+🔐 PHP Login System
+
+Tech: PHP • MySQL
+📁 Repo
+
+📝 Dynamic JavaScript Login Form
+
+Tech: HTML • CSS • JavaScript
+📁 Repo
+
+🧘 ZenHealth — Wellness Platform
+
+Tech: HTML • CSS
+📁 Repo
+
+🛒 MERN E-Commerce Store
+
+Tech: MERN Stack
+📁 Repo
+
+📚 Inventory Management System
+
+Tech: Java • SQLite
+📁 Repo
+
+🔐 MERN Login Page
+
+📁 Repo
+
+📂 MERN CRUD System
+
+📁 Repo
+
+🖥 Apache NetBeans Java Application
+
+📁 Repo
+
+🌐 School Management System (Fork)
+
+📁 Repo
 
 ---
 
