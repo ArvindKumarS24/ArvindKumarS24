@@ -45,115 +45,94 @@
 ---
 
 📌 Featured Projects
----
-🚀 Projects
-🎮 Tic-Tac-Toe
 
-Tech: HTML • CSS • JavaScript
-🔗 Live Demo
 
-🛠 ProServe — Professional Service Booking
-
-Tech: HTML • TailwindCSS • JavaScript
-🔗 Live Demo
-
-🤖 AI Learning Planner
-
-Tech: HTML • CSS • JavaScript • AI API
-🔗 Live Demo
-
-✔️ Advanced To-Do List
-
-Tech: HTML • CSS • JavaScript
-🔗 Live Demo
-
-🏹 Archery Challenge — Stickman Archer Game
-
-Tech: Java Swing
-🔗 Live Demo
-
-🎬 Movie Search App
-
-Tech: ReactJS • OMDb API
-🔗 Live Demo
-
-🗂 Additional Projects (GitHub Repositories)
-🗳 Voting Management System
-
-Tech: PHP • MySQL
-📁 Repo
-
-🔐 Java Swing Login System
-
-Tech: Java • MySQL
-📁 Repo
-
-🧾 Billing System
-
-Tech: Java Swing
-📁 Repo
-
-📦 Post CRUD API
-
-Tech: Node.js • Express • MongoDB
-📁 Repo
-
-🔐 PHP Login System
-
-Tech: PHP • MySQL
-📁 Repo
-
-📝 Dynamic JavaScript Login Form
-
-Tech: HTML • CSS • JavaScript
-📁 Repo
-
-🧘 ZenHealth — Wellness Platform
-
-Tech: HTML • CSS
-📁 Repo
-
-🛒 MERN E-Commerce Store
-
-Tech: MERN Stack
-📁 Repo
-
-📚 Inventory Management System
-
-Tech: Java • SQLite
-📁 Repo
-
-🔐 MERN Login Page
-
-📁 Repo
-
-📂 MERN CRUD System
-
-📁 Repo
-
-🖥 Apache NetBeans Java Application
-
-📁 Repo
-
-🌐 School Management System (Fork)
-
-📁 Repo
+## 🎮 Tic-Tac-Toe  
+**Tech:** HTML • CSS • JavaScript  
+🔗 Live Demo: https://tic-tac-toe-game-ak.netlify.app/
 
 ---
 
-## 🖼 Image notes
-- Put your images in `/assets/` with these names (or update paths):  
-  `demo.gif`, `tictactoe.png`, `proserve.png`, `ai-planner.png`, `todo.png`, `archery.png`, `movie.png`  
-- Recommended sizes: thumbnails ~`800×450` (crop center) and GIF demo `~900px` wide (≤ 2MB).
+## 🛠 ProServe — Professional Service Booking  
+**Tech:** HTML • TailwindCSS • JavaScript  
+🔗 Live Demo: https://pro-serve.netlify.app/
 
 ---
 
-## ✨ Want it even cooler?
-Reply with **“make it dark-style”**, **“add screenshots only”**, or **“compact text-only list”** — I’ll update it instantly.
+## 🤖 AI Learning Planner  
+**Tech:** HTML • CSS • JavaScript • AI API  
+🔗 Live Demo: https://ai-larning-planner-roadmap-guider.netlify.app/
 
 ---
 
+## ✔️ Advanced To-Do List  
+**Tech:** HTML • CSS • JavaScript  
+🔗 Live Demo: https://advanced-todo-list-pro.netlify.app/
+
 ---
+
+## 🏹 Archery Challenge — Stickman Archer Game  
+**Tech:** Java Swing  
+🔗 Live Demo: https://archery-challengegame.netlify.app/
+
+---
+
+## 🎬 Movie Search App  
+**Tech:** ReactJS • OMDb API  
+🔗 Live Demo: https://arvind-movie-database-intership-task2.netlify.app/
+
+---
+
+# 🗂 Additional Projects (GitHub Repositories)
+
+### 🗳 Voting Management System  
+**Tech:** PHP • MySQL  
+📁 Repo: https://github.com/ArvindKumarS24/Voting-Management-System
+
+### 🔐 Java Swing Login System  
+**Tech:** Java • MySQL  
+📁 Repo: https://github.com/ArvindKumarS24/Task4-Java-MySQL-NetBeans
+
+### 🧾 Billing System (Task 7)  
+**Tech:** Java Swing  
+📁 Repo: https://github.com/ArvindKumarS24/Task-7-Billing-System-
+
+### 📦 Post CRUD API  
+**Tech:** Node.js • Express • MongoDB  
+📁 Repo: https://github.com/ArvindKumarS24/Task-7post-crud-api
+
+### 🔐 PHP Login System  
+**Tech:** PHP • MySQL  
+📁 Repo: https://github.com/ArvindKumarS24/PHP-Login-System-Internship-task-2
+
+### 📝 Dynamic JavaScript Login Form  
+**Tech:** HTML • CSS • JavaScript  
+📁 Repo: https://github.com/ArvindKumarS24/-Dynamic-Login-Form-Using-JavaScript
+
+### 🧘 ZenHealth — Wellness Platform  
+**Tech:** HTML • CSS  
+📁 Repo: https://github.com/ArvindKumarS24/ZenHealth
+
+### 🛒 MERN E-Commerce Store  
+**Tech:** MERN Stack  
+📁 Repo: https://github.com/ArvindKumarS24/Task-6-E-commerce-Store-MERN-Stack-
+
+### 📚 Inventory Management System (Task 5)  
+**Tech:** Java • SQLite  
+📁 Repo: https://github.com/ArvindKumarS24/Task-5
+
+### 🔐 MERN Login Page  
+📁 Repo: https://github.com/ArvindKumarS24/Task-4Login-Page-MERN-Stack-
+
+### 📂 MERN CRUD System (Task 3)  
+📁 Repo: https://github.com/ArvindKumarS24/MERN-stack-task-3
+
+### 🖥 Apache NetBeans Java Application  
+📁 Repo: https://github.com/ArvindKumarS24/Apache-NetBeans-task-3
+
+### 🌐 School Management System (Fork)  
+📁 Repo: https://github.com/ArvindKumarS24/school-management-system
+
 
 ## 📊 GitHub Stats
 
