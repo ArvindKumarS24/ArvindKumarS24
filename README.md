@@ -44,19 +44,90 @@
 
 ---
 
-## 📌 Featured Projects
+📌 Featured Projects
+🗳️ Voting Management System
 
-### 🗳️ [Voting Management System](https://github.com/ArvindKumarS24/Voting-Management-System)
-- Secure online voting platform with admin panel, encrypted vote casting, and real-time result tabulation.
-- **Tech:** PHP, MySQL, HTML, CSS, XAMPP
+Secure online voting platform with admin dashboard, candidate management, and real-time results.
 
-### 🎬 [Movie Search App](https://arvind-movie-database-intership-task2.netlify.app/)
-- React app using OMDb API to search for movies, view details, and filter results.
-- **Tech:** ReactJS, Axios, CSS, Netlify
+Tech: PHP, MySQL, HTML, CSS
 
-### 🔐 [Java Swing Login System](https://github.com/ArvindKumarS24/Task4-Java-MySQL-NetBeans)
-- GUI-based secure login/logout system with MySQL integration.
-- **Tech:** Java, MySQL, NetBeans
+🎮 Tic-Tac-Toe Game
+
+Classic interactive Tic-Tac-Toe with clean UI and responsive design.
+
+Demo: 🔗 https://tic-tac-toe-game-ak.netlify.app/
+
+Tech: HTML, CSS, JavaScript
+
+🛠️ ProServe — Professional Service Manager
+
+Single-page service booking app with animated UI and multi-step booking flow.
+
+Demo: 🔗 https://pro-serve.netlify.app/
+
+Tech: HTML, TailwindCSS, JavaScript
+
+🤖 AI Learning Planner
+
+AI-powered 7-week roadmap generator with daily tasks and streak tracking.
+
+Demo: 🔗 https://ai-larning-planner-roadmap-guider.netlify.app/
+
+Tech: HTML, CSS, JavaScript, Generative API
+
+✔️ Advanced To-Do List
+
+Sleek, modern, fully featured To-Do app with filters and smooth UI.
+
+Demo: 🔗 https://advanced-todo-list-pro.netlify.app/
+
+Tech: HTML, CSS, JavaScript
+
+🏹 Archery Challenge Game
+
+Fun browser game where you control a stickman archer and hit the targets.
+
+Demo: 🔗 https://archery-challengegame.netlify.app/
+
+Tech: HTML, CSS, JavaScript
+
+🎬 Movie Search App
+
+React app using OMDb API — search, filter, and view movie details.
+
+Demo: 🔗 https://arvind-movie-database-intership-task2.netlify.app/
+
+Tech: ReactJS, Axios, CSS
+
+🔐 Java Swing Login System
+
+Secure login/logout UI with MySQL database connection.
+
+Tech: Java, MySQL, NetBeans
+
+🧾 Task-7 Billing System
+
+Desktop billing app with product management and summary reporting.
+
+Tech: Java Swing
+
+📦 Post CRUD API (Internship Task 7)
+
+RESTful API to manage blog-style posts.
+
+Tech: Node.js, Express.js, MongoDB
+
+🔐 PHP Login & Signup System (Internship Task 2)
+
+Secure login/signup with hashing and database checks.
+
+Tech: PHP, MySQL
+
+📝 Dynamic Login Form (Task 5 MERN)
+
+Animated login form built using JavaScript DOM manipulation.
+
+Tech: HTML, CSS, JavaScript
 
 ---
 
