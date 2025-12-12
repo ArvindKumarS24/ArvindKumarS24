@@ -50,7 +50,7 @@
 - Secure online voting platform with admin panel, encrypted vote casting, and real-time result tabulation.
 - **Tech:** PHP, MySQL, HTML, CSS, XAMPP
 
-### 🎬 [Movie Search App](https://dazzling-sable-56a139.netlify.app)
+### 🎬 [Movie Search App](https://arvind-movie-database-intership-task2.netlify.app/)
 - React app using OMDb API to search for movies, view details, and filter results.
 - **Tech:** ReactJS, Axios, CSS, Netlify
 
