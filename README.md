@@ -45,7 +45,105 @@
 ---
 
 📌 Featured Projects
-<div align="center"> <table> <!-- ROW 1 --> <tr> <td align="center" width="300"> <h3>🎮 Tic-Tac-Toe</h3> <a href="https://tic-tac-toe-game-ak.netlify.app/"> <img src="https://img.shields.io/badge/Live_Demo-23bf6e?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-blue?style=flat-square" /></p> </td> <td align="center" width="300"> <h3>🛠️ ProServe (Service Manager)</h3> <a href="https://pro-serve.netlify.app/"> <img src="https://img.shields.io/badge/Live_Demo-2F80ED?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/HTML%20%7C%20TailwindCSS%20%7C%20JS-blue?style=flat-square" /></p> </td> <td align="center" width="300"> <h3>🤖 AI Learning Planner</h3> <a href="https://ai-larning-planner-roadmap-guider.netlify.app/"> <img src="https://img.shields.io/badge/Live_Demo-6A5ACD?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-blue?style=flat-square" /></p> </td> </tr> <!-- ROW 2 --> <tr> <td align="center" width="300"> <h3>✔️ Advanced To-Do App</h3> <a href="https://advanced-todo-list-pro.netlify.app/"> <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-blue?style=flat-square" /></p> </td> <td align="center" width="300"> <h3>🏹 Archery Challenge Game</h3> <a href="https://archery-challengegame.netlify.app/"> <img src="https://img.shields.io/badge/Live_Demo-FB8C00?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/Java%20Swing-blue?style=flat-square" /></p> </td> <td align="center" width="300"> <h3>🎬 Movie Search App</h3> <a href="https://arvind-movie-database-intership-task2.netlify.app/"> <img src="https://img.shields.io/badge/Live_Demo-DB2777?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/ReactJS%20%7C%20API-blue?style=flat-square" /></p> </td> </tr> <!-- ROW 3 --> <tr> <td align="center" width="300"> <h3>🗳️ Voting Management System</h3> <a href="https://github.com/ArvindKumarS24/Voting-Management-System"> <img src="https://img.shields.io/badge/View_Repo-008cff?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/PHP%20%7C%20MySQL-blue?style=flat-square" /></p> </td> <td align="center" width="300"> <h3>🔐 Java Swing Login System</h3> <a href="https://github.com/ArvindKumarS24/Task4-Java-MySQL-NetBeans"> <img src="https://img.shields.io/badge/View_Repo-008cff?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/Java%20%7C%20MySQL-blue?style=flat-square" /></p> </td> <td align="center" width="300"> <h3>🧾 Billing System (Task 7)</h3> <a href="https://github.com/ArvindKumarS24/Task-7-Billing-System-"> <img src="https://img.shields.io/badge/View_Repo-008cff?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/Java%20Swing-blue?style=flat-square" /></p> </td> </tr> <!-- ROW 4 --> <tr> <td align="center" width="300"> <h3>📦 Post CRUD API</h3> <a href="https://github.com/ArvindKumarS24/Task-7post-crud-api"> <img src="https://img.shields.io/badge/View_Repo-008cff?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/NodeJS%20%7C%20Express%20%7C%20MongoDB-blue?style=flat-square" /></p> </td> <td align="center" width="300"> <h3>🔐 PHP Login System</h3> <a href="https://github.com/ArvindKumarS24/PHP-Login-System-Internship-task-2"> <img src="https://img.shields.io/badge/View_Repo-008cff?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/PHP%20%7C%20MySQL-blue?style=flat-square" /></p> </td> <td align="center" width="300"> <h3>📝 Dynamic JS Login Form</h3> <a href="https://github.com/ArvindKumarS24/-Dynamic-Login-Form-Using-JavaScript"> <img src="https://img.shields.io/badge/View_Repo-008cff?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-blue?style=flat-square" /></p> </td> </tr> <!-- ROW 5 --> <tr> <td align="center" width="300"> <h3>🧘 ZenHealth</h3> <a href="https://github.com/ArvindKumarS24/ZenHealth"> <img src="https://img.shields.io/badge/View_Repo-008cff?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/HTML%20%7C%20CSS-blue?style=flat-square" /></p> </td> <td align="center" width="300"> <h3>🛒 MERN E-Commerce Store</h3> <a href="https://github.com/ArvindKumarS24/Task-6-E-commerce-Store-MERN-Stack-"> <img src="https://img.shields.io/badge/View_Repo-008cff?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/MERN_Stack-blue?style=flat-square" /></p> </td> <td align="center" width="300"> <h3>📚 Inventory Management (Task 5)</h3> <a href="https://github.com/ArvindKumarS24/Task-5"> <img src="https://img.shields.io/badge/View_Repo-008cff?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/Java%20%7C%20SQLite-blue?style=flat-square" /></p> </td> </tr> <!-- ROW 6 --> <tr> <td align="center" width="300"> <h3>🔐 MERN Login Page</h3> <a href="https://github.com/ArvindKumarS24/Task-4Login-Page-MERN-Stack-"> <img src="https://img.shields.io/badge/View_Repo-008cff?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/MERN_Stack-blue?style=flat-square" /></p> </td> <td align="center" width="300"> <h3>📂 CRUD with MERN (Task 3)</h3> <a href="https://github.com/ArvindKumarS24/MERN-stack-task-3"> <img src="https://img.shields.io/badge/View_Repo-008cff?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/MERN_Stack-blue?style=flat-square" /></p> </td> <td align="center" width="300"> <h3>🖥️ Apache NetBeans (Task 3)</h3> <a href="https://github.com/ArvindKumarS24/Apache-NetBeans-task-3"> <img src="https://img.shields.io/badge/View_Repo-008cff?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/Java-blue?style=flat-square" /></p> </td> </tr> <!-- ROW 7 --> <tr> <td align="center" width="300"> <h3>🌐 School Management System</h3> <a href="https://github.com/ArvindKumarS24/school-management-system"> <img src="https://img.shields.io/badge/View_Repo-008cff?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/Laravel%20%7C%20Blade-blue?style=flat-square" /></p> </td> <td align="center" width="300"> <h3>🎓 Skills Introduction Repo</h3> <a href="https://github.com/ArvindKumarS24/skills-introduction-to-github"> <img src="https://img.shields.io/badge/View_Repo-008cff?style=for-the-badge" /> </a> <p><img src="https://img.shields.io/badge/GitHub_Learning-blue?style=flat-square" /></p> </td> <td align="center" width="300"> <h3>📁 Other Personal Repos</h3> <a href="https://github.com/ArvindKumarS24?tab=repositories"> <img src="https://img.shields.io/badge/View_All_Projects-ff5722?style=for-the-badge" /> </a> </td> </tr> </table> </div>
+🎮 Tic-Tac-Toe Game
+
+
+Tech: HTML • CSS • JavaScript
+
+🛠️ ProServe – Service Booking App
+
+
+Tech: HTML • TailwindCSS • JavaScript
+
+🤖 AI Learning Planner
+
+
+Tech: HTML • CSS • JavaScript • AI API
+
+✔️ Advanced To-Do List
+
+
+Tech: HTML • CSS • JavaScript
+
+🏹 Archery Challenge Game
+
+
+Tech: Java Swing
+
+🎬 Movie Search App
+
+
+Tech: ReactJS • API
+
+🗳️ Voting Management System
+
+
+Tech: PHP • MySQL • HTML • CSS
+
+🔐 Java Swing Login System
+
+
+Tech: Java • MySQL • Swing
+
+🧾 Billing System (Task 7)
+
+
+Tech: Java Swing
+
+📦 Post CRUD API
+
+
+Tech: NodeJS • Express • MongoDB
+
+🔐 PHP Login System
+
+
+Tech: PHP • MySQL
+
+📝 Dynamic JavaScript Login Form
+
+
+Tech: HTML • CSS • JavaScript
+
+🧘 ZenHealth – Wellness Web App
+
+
+Tech: HTML • CSS
+
+🛒 MERN E-Commerce Store
+
+
+Tech: MERN Stack
+
+📚 Inventory Management (Task 5)
+
+
+Tech: Java • SQLite
+
+🔐 MERN Login Page
+
+
+Tech: MERN Stack
+
+📂 CRUD with MERN (Task 3)
+
+
+Tech: MERN Stack
+
+🖥️ Apache NetBeans Java App
+
+
+Tech: Java
+
+🌐 School Management System (Fork)
+
+
+Tech: Laravel • Blade
+
+🗂️ GitHub Learning Repo
+
+
+Tech: GitHub Basics
 
 ---
 
